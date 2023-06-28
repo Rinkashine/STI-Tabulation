@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'name' => 'Sportfest',
+    'name' => 'STI Tabulation',
     'manifest' => [
-        'name' => 'Sportfest',
-        'short_name' => 'Sportfest',
+        'name' => 'STI Tabulation',
+        'short_name' => 'STI Tabulation',
         'start_url' => '/',
         'background_color' => '#1e5f4e',
         'theme_color' => '#054232',
